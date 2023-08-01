@@ -1,1 +1,1 @@
-This is a readme for 0*03-git directory
+This is the readme for 0*03-git directory.
